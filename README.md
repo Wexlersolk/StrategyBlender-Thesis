@@ -1,5 +1,7 @@
 # StrategyBlender Platform
 
+> **Disclaimer:** This repository contains the public, non-proprietary core of the StrategyBlender platform developed for my Bachelor's Thesis. Sensitive indicators, proprietary datasets, the execution engine, and API keys have been removed from this release.
+
 ## Overview
 
 StrategyBlender is a service-oriented quantitative research platform designed to automate the lifecycle of trading strategy development, validation, and execution. 
